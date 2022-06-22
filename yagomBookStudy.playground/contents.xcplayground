@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='변수와 상수'/>
+        <page name='데이터 타입 기본'/>
+        <page name='데이터 타입 고급'/>
+        <page name='연산자'/>
+        <page name='흐름제어'/>
+        <page name='함수'/>
+    </pages>
+</playground>
